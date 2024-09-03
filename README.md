@@ -36,4 +36,3 @@
         <p> If you understand IT hardware, software and networking—except for all the new capabilities that come with Web 2. These concepts are vital for you irrespective of whether your planning to put in a career into technology or just want to know how things work. Considering the rapid evolution of technology, it is important for you to understand some kind of IT basics as this will go a long way in enabling you to move along with an ever-changing digital ecosystem. </p>
     </body>
     </html>
-
